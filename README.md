@@ -1,4 +1,4 @@
-# first-repo-test
+# firstrepotest
 This is my first Git Repository
 <br>
 Author - Meen Budha
